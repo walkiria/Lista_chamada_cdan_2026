@@ -8,6 +8,10 @@ Guilherme Buscaglione
 Eduardo Loeser
 Guilherme Buscaglione
 2 Sophia Otubo
+<<<<<<< HEAD
+Luís Gustavo Barbosa
+=======
 Daniel Graubart Agoston
+>>>>>>> 1a18c0d77bbbb2e3a8867807d4d7465b1c83f70b
 Eduardo
 Murilo Pilão
